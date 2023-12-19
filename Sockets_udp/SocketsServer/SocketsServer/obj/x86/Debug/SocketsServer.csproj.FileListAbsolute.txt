@@ -1,0 +1,59 @@
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Alexander\Desktop\12345\New\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Alexander\Desktop\12345\New\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\mscorlib.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\sortkey.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\sorttbls.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\big5.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\bopomofo.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\ksc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\prc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\prcp.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\xjis.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\normidna.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\normnfc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\normnfd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\normnfkc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\bin\Debug\normnfkd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CopyComplete
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\mscorlib.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\sortkey.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\sorttbls.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\big5.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\bopomofo.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\ksc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\prc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\prcp.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\xjis.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\normidna.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\normnfc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\normnfd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\normnfkc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\bin\Debug\normnfkd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CopyComplete
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_udp\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb

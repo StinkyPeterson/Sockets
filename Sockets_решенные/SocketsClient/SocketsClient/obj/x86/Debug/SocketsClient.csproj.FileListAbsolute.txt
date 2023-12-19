@@ -1,0 +1,34 @@
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\obj\x86\Debug\Sockets.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\bin\Debug\SocketsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\bin\Debug\SocketsClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.exe
+C:\Users\Alexander\Desktop\12345\New\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\SocketsClient.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\SocketsClient.pdb
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\mscorlib.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\sortkey.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\sorttbls.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\big5.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\bopomofo.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\ksc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\prc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\prcp.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\xjis.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\normidna.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\normnfc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\normnfd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\normnfkc.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\bin\Debug\normnfkd.nlp
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\Sockets.frmMain.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.Properties.Resources.resources
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.csproj.CopyComplete
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.exe
+C:\Users\Artem\Desktop\H S E\РАСПРЕДЕЛЕНКИ\Задание 3\Sockets_решенные\SocketsClient\SocketsClient\obj\x86\Debug\SocketsClient.pdb
